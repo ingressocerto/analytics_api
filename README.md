@@ -3,7 +3,7 @@
 
 Esta documentação tem a finalidade de auxiliar e ensinar como consumir as APIs de integração do Ingresso Certo Analytics.
 
-[Documentação](wiki)
+[Documentação](https://github.com/ingressocerto/analytics_api/wiki)
 
 Todas as APIs devem ser acessadas a partir da URL base `{base_url}` a seguir:
 
