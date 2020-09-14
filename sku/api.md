@@ -27,6 +27,6 @@ sort      | string | asc        | (opcional) Tipo de ordenação, 'asc' (ascende
 
 Método                                     | Descrição
 ------------------------------------------ | ---------
-[GET](IngressoCerto-Analytics-API-Sku-Get) | Retorna a lista de registros
+[GET](get.md) | Retorna a lista de registros
 
 *Clique no método para ver o exemplo.*

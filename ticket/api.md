@@ -29,7 +29,7 @@ sort      | string  | asc        | (opcional) Tipo de ordenação, 'asc' (ascend
 
 Método                                          | Descrição
 ----------------------------------------------- | ---------
-[GET](IngressoCerto-Analytics-API-Ticket-Get)   | Retorna a lista de registros
-[POST](IngressoCerto-Analytics-API-Ticket-Post) | Registra a conferência do ingresso
+[GET](get.md)   | Retorna a lista de registros
+[POST](post.md) | Registra a conferência do ingresso
 
 *Clique no método para ver o exemplo.*

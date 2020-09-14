@@ -27,6 +27,6 @@ sort       | string | asc        | (opcional) Tipo de ordenação, 'asc' (ascend
 
 Método                                         | Descrição
 ---------------------------------------------- | ---------
-[GET](IngressoCerto-Analytics-API-Product-Get) | Retorna a lista de registros
+[GET](get.md) | Retorna a lista de registros
 
 *Clique no método para ver o exemplo.*
