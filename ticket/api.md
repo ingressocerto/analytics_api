@@ -1,6 +1,3 @@
-[HOME](Home) / [ANALYTICS API](IngressoCerto-Analytics-API) / TICKET
-
-*****
 ##### **INGRESSO CERTO**
 # **TICKET (Ingresso)**
 

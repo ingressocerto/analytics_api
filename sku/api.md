@@ -1,6 +1,3 @@
-[HOME](Home) / [ANALYTICS API](IngressoCerto-Analytics-API) / SKU
-
-*****
 ##### **INGRESSO CERTO**
 # **SKU (Tipos de Ingresso)**
 

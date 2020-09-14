@@ -1,6 +1,3 @@
-[HOME](Home) / [ANALYTICS API](IngressoCerto-Analytics-API) / [PRODUCT](IngressoCerto-Analytics-API-Product) / GET
-
-*****
 ##### **INGRESSO CERTO**
 # **PRODUCT (Eventos)**
 

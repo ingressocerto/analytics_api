@@ -1,7 +1,3 @@
-[HOME](Home) / ANALYTICS API
-
-*****
-
 ##### **INGRESSO CERTO**
 # **ANALYTICS API**
 
